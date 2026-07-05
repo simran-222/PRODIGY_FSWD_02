@@ -64,10 +64,10 @@ A modern full-stack Employee Management System built using the MERN Stack. It al
 
 Use the following administrator credentials to access the Employee Management System.
 
-**Email**
+**Email:**
 admin@ems.com
 
-**Password**
+**Password:**
 emsadmin
 
 ---
