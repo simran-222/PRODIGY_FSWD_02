@@ -43,6 +43,10 @@ A modern full-stack Employee Management System built using the MERN Stack. It al
 - Bcrypt.js
 - dotenv
 
+### 📧 Email Service
+
+- Brevo SMTP
+
 ### 🧪 API Testing
 
 - Postman
